@@ -1,1 +1,1 @@
-# Dashboard Project
+# COVID Dashboard Project
